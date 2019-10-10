@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Project Code/Java_Insert_Update_Delete_Display_Tutorial/src"/>
+	<classpathentry kind="output" path="Project Code/Java_Insert_Update_Delete_Display_Tutorial/build/classes"/>
+</classpath>
